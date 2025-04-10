@@ -11,3 +11,13 @@ serie 2
 5. es muy util hoy en dia ya que docker es util tanto en entorno de desarrollo para pruebas o realizar servicios optimizando los recursos.
 
 7. las variables de entorno son varibles que se definen directamente en el sistema operativo para almacenar valores de datos, son utiles para  definir valores que condicionan el funcionamiento de una aplicación segun el entorno en el que se este ejecutando
+
+
+
+serie 3
+
+1.  
+    1. verficar la velocidad de internet que tiene el servidor
+    2. veriificar la hora en la que se reportan la mayoria de inconvenientes
+    3. verificar las caracteristicas del servidor
+    4. analizar la capacidad del servidor para el numero de usuarios
